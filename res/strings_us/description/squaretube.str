@@ -1,0 +1,10 @@
+STRINGTABLE squaretube
+{
+	squaretube									"Square Tube Object";
+	PY_SQUARETUBE_LENGTH				"Length";
+	PY_SQUARETUBE_WIDTH					"Width";
+	PY_SQUARETUBE_DEPTH					"Depth";
+	PY_SQUARETUBE_THICKNESS			"Thickness";
+	PY_SQUARETUBE_TOP_ANGLE			"Top Angle";
+	PY_SQUARETUBE_BOTTOM_ANGLE	"Bottom Angle";
+}
